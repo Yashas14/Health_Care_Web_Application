@@ -6,7 +6,7 @@ This project aims to transform the healthcare experience by creating a dynamic a
 #### **Goals:**  
 - Streamline patient management and appointment scheduling.  
 - Provide secure and efficient communication between patients and doctors.  
-- Enable informed decision-making through personalized health insights.  
+- Enable informed decision-making through personalized health insights.   
 
 
 ### 📊 **Features and Data Description**  
