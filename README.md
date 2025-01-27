@@ -62,7 +62,7 @@ The Health Care Web Application successfully delivered:
 ### 📂 **Repository Contents**  
 - **Frontend**: Source code for the user interface and design.  
 - **Backend**: Scripts for server-side functionalities and database management.  
-- **Documentation**: Guidelines for setup and usage of the application.  
+- **Documentation**: Guidelines for setup and usage of the application.   
 
 
 ### 👥 **Connect With Me:**  
