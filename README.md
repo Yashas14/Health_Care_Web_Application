@@ -67,5 +67,5 @@ The Health Care Web Application successfully delivered:
 
 ### 👥 **Connect With Me:**  
 **Yashas D**  
-🔗 [[LinkedIn Profile](https://www.linkedin.com/in/yashasd2004/)]  
+🔗 [[YashasD2004](https://www.linkedin.com/in/yashasd2004/)]  
 Feel free to connect for queries, feedback, or collaboration opportunities!  
