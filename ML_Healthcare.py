@@ -277,7 +277,7 @@ def user_predict():
         X = data.drop(["output"], axis=1)
         U_pred = clf.predict([[user_val[col] for col in X.columns]])
 
-    st.subheader("Your Status: ")
+    st.subheader("Your Status: ") 
     if U_pred == 0:
         st.write(U_pred[0], " - You are not at high risk :)")
     else:
