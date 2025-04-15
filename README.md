@@ -114,7 +114,8 @@ Health_Care_Web_Application/
 
 **👨‍💻 Yashas D**  
 📬 [GitHub Profile](https://github.com/Yashas14)  
-🌐 [Personal Website](https://yashasd2004.wixsite.com/mysite)  
+🌐 [Personal Website](https://yashasd2004.wixsite.com/mysite) 
+🔗 **LinkedIn**: [Yashas D on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
 📩 Open to collaborations, feedback, and research partnerships!
 
 
