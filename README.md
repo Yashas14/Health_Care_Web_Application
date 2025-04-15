@@ -1,7 +1,7 @@
 
 
 # 🌐 Health Care Web Application  
-**Revolutionizing Patient-Centric Healthcare with Technology**  
+**Exploratory Analysis of Heart Attack and Breast Cancer Early Stage Prediction: Revolutionizing Patient-Centric Healthcare with Technology**  
 📄 [IEEE Xplore Publication](https://ieeexplore.ieee.org/document/10941411) | 📂 [Project Repository](https://github.com/Yashas14/Health_Care_Web_Application/tree/main)
 
 
@@ -113,9 +113,9 @@ Health_Care_Web_Application/
 ## 🤝 Connect With Me
 
 **👨‍💻 Yashas D**  
+🔗 **LinkedIn**: [Yashas D on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
 📬 [GitHub Profile](https://github.com/Yashas14)  
 🌐 [Personal Website](https://yashasd2004.wixsite.com/mysite) 
-🔗 **LinkedIn**: [Yashas D on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
 📩 Open to collaborations, feedback, and research partnerships!
 
 
