@@ -7,7 +7,7 @@
 
 ## 🧠 Overview  
 
-Welcome to the official repository of the **Health Care Web Application** — a powerful, intuitive platform built to bridge the gap between patients and healthcare professionals. Born from a vision to streamline healthcare workflows and empower patient engagement, this system offers a comprehensive suite of tools for **early-stage disease prediction**, and **interactive model exploration**.
+Welcome to the repository of the **Health Care Web Application** — a powerful, intuitive platform built to bridge the gap between patients and healthcare professionals. Born from a vision to streamline healthcare workflows and empower patient engagement, this system offers a comprehensive suite of tools for **early-stage disease prediction**, and **interactive model exploration**.
 
 > 🎓 **As featured in IEEE Xplore:**  
 > _"Exploratory Analysis of Heart Attack and Breast Cancer Early Stage Prediction"_  
