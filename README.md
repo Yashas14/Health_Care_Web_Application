@@ -196,13 +196,13 @@ Response: [{ id, dataset, classifier, prediction, label, confidence, created_at 
 
 > Screenshots to be added after first run.
 <img width="1898" height="943" alt="image" src="https://github.com/user-attachments/assets/5d994b6e-98b8-4df3-b0ce-a98395507f9a" />
-
+--
 <img width="1904" height="939" alt="image" src="https://github.com/user-attachments/assets/e4ba9af6-6d94-4821-9d0c-19bc7fa2d4fa" />
-
+--
 <img width="1907" height="942" alt="image" src="https://github.com/user-attachments/assets/b40a3408-7ed2-41a2-9bcc-6bc08643f71b" />
-
+--
 <img width="1906" height="946" alt="image" src="https://github.com/user-attachments/assets/2a0388a2-e74e-4d90-8a5c-54f110a78f3e" />
-
+--
 <img width="1910" height="940" alt="image" src="https://github.com/user-attachments/assets/abc65869-cd26-47cc-9776-e323a75f0e31" />
 
 ---
