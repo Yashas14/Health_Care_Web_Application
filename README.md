@@ -11,6 +11,29 @@
 - **DOI:** [10.1109/ICCSP60870.2024.10941411](https://ieeexplore.ieee.org/document/10941411)
 
 ---
+## ⚙️ Model Playground  
+
+Experiment with various classification algorithms for disease prediction:
+
+- 🧮 Logistic Regression  
+- 👣 K-Nearest Neighbors (KNN)  
+- 🌲 Random Forest  
+- 💫 Support Vector Machine (SVM)  
+- 🚀 XGBoost  
+
+### 📊 Visualization Galore  
+- 🧬 PCA-based 2D projections  
+- 📉 Real vs. Predicted Value Plots  
+- 🔥 Confusion Matrix Heatmap  
+- 📈 Dynamic Metric Display: Precision, Recall, F1-Score, Accuracy & MSE  
+
+### 👤 User Custom Input Section  
+Predict outcomes using sliders for each health feature — simulate real-world test cases!
+
+### ⏱️ Efficient Execution Time Display  
+Track model inference time for performance comparison.
+
+---
 
 ## 🚀 Tech Stack
 
@@ -27,7 +50,7 @@
 ## 📁 Project Structure
 
 ```
-Health_Care_Web_Application/
+MediPredict_Health_Care_Web_Application/
 ├── backend/
 │   ├── main.py                  # FastAPI entry point
 │   ├── database.py              # SQLite prediction history
@@ -172,14 +195,11 @@ Response: [{ id, dataset, classifier, prediction, label, confidence, created_at 
 ## 📸 Screenshots
 
 > Screenshots to be added after first run.
-
----
-
-## ⚠️ Disclaimer
-
-This application is for **educational and research demonstration purposes only**.
-It is NOT intended to be used as a medical diagnosis tool.
-Always consult qualified healthcare professionals for medical decisions.
+<img width="1898" height="943" alt="image" src="https://github.com/user-attachments/assets/5d994b6e-98b8-4df3-b0ce-a98395507f9a" />
+<img width="1904" height="939" alt="image" src="https://github.com/user-attachments/assets/e4ba9af6-6d94-4821-9d0c-19bc7fa2d4fa" />
+<img width="1907" height="942" alt="image" src="https://github.com/user-attachments/assets/b40a3408-7ed2-41a2-9bcc-6bc08643f71b" />
+<img width="1906" height="946" alt="image" src="https://github.com/user-attachments/assets/2a0388a2-e74e-4d90-8a5c-54f110a78f3e" />
+<img width="1910" height="940" alt="image" src="https://github.com/user-attachments/assets/abc65869-cd26-47cc-9776-e323a75f0e31" />
 
 ---
 
@@ -187,3 +207,13 @@ Always consult qualified healthcare professionals for medical decisions.
 
 This project is based on research published through IEEE.
 Please cite the paper if you use this work.
+
+
+
+## 🤝 Connect With Me
+
+**👨‍💻 Yashas D**  
+🔗 [LinkedIn](https://www.linkedin.com/in/yashasd2004/)  
+📬 [GitHub](https://github.com/Yashas14)  
+
+> ⭐ If you found this project insightful or helpful, don’t forget to **star ⭐ the repo**, **raise issues**, or contribute! Let’s build impactful solutions together.
