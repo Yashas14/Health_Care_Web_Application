@@ -194,7 +194,7 @@ Response: [{ id, dataset, classifier, prediction, label, confidence, created_at 
 
 ## 📸 Screenshots
 
-> Screenshots to be added after first run.
+
 <img width="1898" height="943" alt="image" src="https://github.com/user-attachments/assets/5d994b6e-98b8-4df3-b0ce-a98395507f9a" />
 --
 <img width="1904" height="939" alt="image" src="https://github.com/user-attachments/assets/e4ba9af6-6d94-4821-9d0c-19bc7fa2d4fa" />
