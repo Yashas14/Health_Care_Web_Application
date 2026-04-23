@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-navy: #0A1628;
+    --color-teal: #00BFA6;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/80 dark:bg-navy-800/60 backdrop-blur-lg border border-gray-200 dark:border-navy-700 rounded-2xl shadow-lg;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-teal-500 to-teal-300 bg-clip-text text-transparent;
+  }
+
+  .btn-primary {
+    @apply px-6 py-3 bg-teal-500 hover:bg-teal-600 text-white font-semibold rounded-xl transition-all duration-200 shadow-lg shadow-teal-500/25 hover:shadow-teal-500/40 active:scale-95;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-navy-700 hover:bg-navy-600 text-white font-semibold rounded-xl transition-all duration-200 border border-navy-600;
+  }
+
+  .metric-card {
+    @apply glass-card p-6 flex flex-col items-center justify-center text-center gap-2;
+  }
+
+  .nav-link {
+    @apply flex items-center gap-3 px-4 py-3 rounded-xl text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-navy-800 hover:text-teal-500 dark:hover:text-teal-400 transition-all duration-200 font-medium;
+  }
+
+  .nav-link-active {
+    @apply bg-teal-500/10 text-teal-500 dark:text-teal-400 font-semibold;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-navy-700 rounded-full;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 dark:bg-navy-600;
+}
+
+/* Progress bar animation */
+@keyframes progressFill {
+  from { width: 0%; }
+  to { width: var(--progress); }
+}
+
+.progress-bar-fill {
+  animation: progressFill 1s ease-out forwards;
+}
